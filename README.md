@@ -1,3 +1,5 @@
+![Preview](nuwe_certificate.png)
+
 # 🚚 INDITEX Java Backend Challenge ☕️
 
 Category   ➡️   Software
